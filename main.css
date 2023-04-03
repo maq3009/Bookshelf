@@ -1,0 +1,9 @@
+html{
+    border: 30px solid rgb(128, 135, 146);
+    border-style: ridge;
+}
+#addBtn {
+    display: flex;
+    justify-content: center;
+    
+}
